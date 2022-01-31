@@ -1,0 +1,1 @@
+tasmota/xsns_50_paj7620.ino
